@@ -414,7 +414,7 @@
     "gitlab": {
         "branch": "master",
         "level": 0,
-        "revision": "2840494286dac782265b41a29867fefd4af2fdfe",
+        "revision": "HEAD",
         "state": "inprogress",
         "url": "https://github.com/YunoHost-Apps/gitlab_ynh"
     },
@@ -965,7 +965,7 @@
     "portainer": {
         "branch": "master",
         "level": 3,
-        "revision": "32f07e8a623e920d620c555e862480c9411390e5",
+        "revision": "HEAD",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/portainer_ynh"
     },
@@ -1170,7 +1170,7 @@
     },
     "syncthing": {
         "branch": "master",
-        "revision": "0d843dd0604a505ef9a02c1d5572c9a5ae810bcf",
+        "revision": "HEAD",
         "state": "inprogress",
         "url": "https://github.com/YunoHost-Apps/syncthing_ynh"
     },
