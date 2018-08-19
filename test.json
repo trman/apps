@@ -1,17 +1,8 @@
 {
 "ffsyncU": {
-
 "branch": "yunohost-app",
-
-"level": 0,
-
+"level": 1,
 "revision": "HEAD",
-
-"state": "notworking",
-
 "url": "https://github.com/trman/ffsync_ynh"
-
 }
-
-
 }
