@@ -1,6 +1,8 @@
 {
 
-"ffsyncU": {
+{
+
+"ffsyncU": 
 
 "branch": "yunohost-app",
 
@@ -10,9 +12,9 @@
 
 "state": "notworking",
 
-"url": "https://github.com/YunoHost-Apps/ffsync_ynh"
+"url":"https://github.com/YunoHost-Apps/ffsync_ynh"
 
-},
+}
 
 
 }
